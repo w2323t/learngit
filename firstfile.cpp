@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-	printf("nnnnnnffffffffirstfileeeee\n") ;
+	printf("nnnffffffffirstfileeeee\n") ;
 } 
